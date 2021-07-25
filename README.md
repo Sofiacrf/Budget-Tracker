@@ -1,5 +1,12 @@
 # Budget-Tracker
 
+## Table of contents
+*[Description](#Description)
+*[Technologies](#Technologies)
+*[Installation](#Installation)
+*[Usage](#Usage)
+*[Link](#Link)
+
 ## Description 
 Online and offline application that allows the user to control all its expenses, deposits as well as the transactions made
 
